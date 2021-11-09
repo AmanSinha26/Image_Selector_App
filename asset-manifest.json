@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Image_Selector_App/static/css/main.952f48e8.chunk.css",
+    "main.js": "/Image_Selector_App/static/js/main.2258cb0b.chunk.js",
+    "main.js.map": "/Image_Selector_App/static/js/main.2258cb0b.chunk.js.map",
+    "runtime-main.js": "/Image_Selector_App/static/js/runtime-main.c27cac75.js",
+    "runtime-main.js.map": "/Image_Selector_App/static/js/runtime-main.c27cac75.js.map",
+    "static/js/2.dbc70a47.chunk.js": "/Image_Selector_App/static/js/2.dbc70a47.chunk.js",
+    "static/js/2.dbc70a47.chunk.js.map": "/Image_Selector_App/static/js/2.dbc70a47.chunk.js.map",
+    "static/js/3.cd353749.chunk.js": "/Image_Selector_App/static/js/3.cd353749.chunk.js",
+    "static/js/3.cd353749.chunk.js.map": "/Image_Selector_App/static/js/3.cd353749.chunk.js.map",
+    "index.html": "/Image_Selector_App/index.html",
+    "static/css/main.952f48e8.chunk.css.map": "/Image_Selector_App/static/css/main.952f48e8.chunk.css.map",
+    "static/js/2.dbc70a47.chunk.js.LICENSE.txt": "/Image_Selector_App/static/js/2.dbc70a47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c27cac75.js",
+    "static/js/2.dbc70a47.chunk.js",
+    "static/css/main.952f48e8.chunk.css",
+    "static/js/main.2258cb0b.chunk.js"
+  ]
+}
